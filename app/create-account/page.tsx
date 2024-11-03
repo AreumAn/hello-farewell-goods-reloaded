@@ -1,7 +1,7 @@
 import { ChatBubbleOvalLeftEllipsisIcon } from "@heroicons/react/24/solid";
 import Link from "next/link";
-import FormInput from '../components/form-input';
-import FormBtn from '../components/form-btn';
+import FormInput from '@/components/form-input';
+import FormBtn from '@/components/form-btn';
 
 export default function CreateAccount() {
   return (
